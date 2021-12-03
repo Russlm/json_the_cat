@@ -1,5 +1,5 @@
 // index.js
-const { fetchBreedDescription } = require('./breedFetcher3');
+const { fetchBreedDescription } = require('./breedFetcher');
 
 // console.log(process.argv)
 
